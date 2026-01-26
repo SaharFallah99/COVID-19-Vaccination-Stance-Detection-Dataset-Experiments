@@ -1,6 +1,3 @@
-# COVID-19-Vaccination-Stance-Detection-Dataset-Experiments
-
-
 # COVID-19 Vaccination Stance Detection Project
 
 ## 📌 Overview
