@@ -61,7 +61,7 @@ We collected English tweets related to **COVID-19, vaccination, and public healt
 
 ## 🎯 Research Objective and Approach
 
-The primary objective of this research is to detect users’ stances toward COVID-19 vaccination from short-text. Users are labeled as Pro-Vaccine, Anti-Vaccine, or Neutral. To achieve stance prediction, we fine-tune a variety of pre-trained models, including both open-source and proprietary models, and investigate prompt-based and zero-shot learning for large language models (LLMs). Furthermore, we examine the efficacy of hybrid architectures that combine autoregressive models with convolutional neural networks (ConvNets) to extract user-level features from social network content. To achieve this, we utilize the following models:
+The primary objective of this research is to detect users’ stances toward COVID-19 vaccination from short-text. Users are labeled as Pro-Vaccine, Anti-Vaccine, or Neutral. To achieve stance prediction, we fine-tune a variety of pre-trained models, including both open-source and proprietary models, and investigate prompt-based and zero-shot learning for large language models (LLMs). To achieve this, we utilize the following models:
 
 ### Masked Language Models (MLMs):
 
@@ -132,7 +132,7 @@ A **fixed test set** is used across all models for consistent benchmarking and p
 
 ### 🔹 Age_Gender_Detection.ipynb
 
-This notebook demonstrates:
+Furthermore, we examine the efficacy of hybrid architectures that combine autoregressive models with convolutional neural networks (ConvNets) to extract user-level features from social network content. This notebook demonstrates:
 
 * Gender detection based on users' names using the **GPT-4-Turbo** language model
 * Gender and age detection using users' **profile images**
