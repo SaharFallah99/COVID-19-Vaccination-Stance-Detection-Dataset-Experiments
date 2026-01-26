@@ -132,11 +132,11 @@ A **fixed test set** is used across all models for consistent benchmarking and p
 
 ### 🔹 Age_Gender_Detection.ipynb
 
-Furthermore, we examine the efficacy of hybrid architectures that combine autoregressive models with convolutional neural networks (ConvNets) to extract user-level features from social network content. This notebook demonstrates:
+We examine the efficacy of hybrid architectures that combine autoregressive models with Convolutional Neural Networks (ConvNets) to extract user-level features from social network content. This notebook illustrates:
 
-* Gender detection based on users' names using the **GPT-4-Turbo** language model
-* Gender and age detection using users' **profile images**
-
+* Gender detection based on users' names using an autoregressive language model.
+*  Gender and age detection using users' *profile images* using ConvNets.
+  
 ⚠️ *Note:* Profile images and usernames are **not shared** due to privacy considerations.
 
 ### 🔹 LabelWithChatGPT.ipynb
