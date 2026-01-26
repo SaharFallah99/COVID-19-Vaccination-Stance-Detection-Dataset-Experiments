@@ -181,7 +181,3 @@ If you use this dataset or repository in your research, please cite the original
 This data is collected for **research purposes only**. All data usage must comply with Twitter/X policies and ethical research standards.
 
 ---
-
-## 🤝 Acknowledgments
-
-We acknowledge the authors of the Cotfas and Poddar datasets for making their labeled resources publicly available for research purposes.
