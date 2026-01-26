@@ -160,7 +160,7 @@ Our results indicate that **domain-specific masked language models** and **autor
 This repository supports research in:
 
 * Stance detection
-* Social media analysis
+* Social network analysis
 * Public health informatics
 * COVID-19 misinformation studies
 * NLP for health-related content
