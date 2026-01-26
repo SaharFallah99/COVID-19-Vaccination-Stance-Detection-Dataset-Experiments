@@ -156,34 +156,7 @@ This repository supports research in:
 
 ---
 
-## 📁 Repository Structure
 
-````text
-.
-├── CCTD-2022.csv
-├── CCTD-2024.csv
-├── CCTD-2022_2024.csv
-├── Cotfas_Poddar_Dataset.csv
-├── train_data.csv
-├── valid_data.csv
-├── test_data.csv
-├── Age_Gender_Detection.ipynb
-├── LabelWithChatGPT.ipynb
-├── preTrain_Bertcovid.ipynb
-└── README.md
-```text
-.
-├── CCTD-2022.csv
-├── CCTD-2024.csv
-├── CCTD-2022_2024.csv
-├── Cotfas_Poddar_Dataset.csv
-├── train_data.csv
-├── valid_data.csv
-├── test_data.csv
-└── README.md
-````
-
----
 
 ## 📜 Citation
 
