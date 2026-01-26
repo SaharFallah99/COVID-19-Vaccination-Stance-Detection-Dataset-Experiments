@@ -37,7 +37,6 @@ We collected English tweets related to **COVID-19, vaccination, and public healt
 * **Time period:** December 11, 2020 – January 31, 2024
 * **Size:** 2,845 tweets
 * **Scraping tool:** Requests library
-* **Global collection**
 * **Additional metadata:** user-declared date of birth from Twitter bios
 * **Columns:**
 
